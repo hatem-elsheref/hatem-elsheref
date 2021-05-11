@@ -1,32 +1,92 @@
-### Hi there 👋
+## Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hatem-elsheref&theme=radical)](https://github.com/hatem-elsheref/github-readme-stats)
-##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hatem-elsheref&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+### this is my contacts if you would like to contact me
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hatemelsheref)](https://github.com/hatem-elsheref/github-readme-stats)
+<br>
 
+<p align ="center">
+  <a href ="https://www.facebook.com/H.elsheref/">
+  <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/>
+  </a>
+  <a href ="https://twitter.com/hatem_elsheref/">
+  <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/>
+  </a>
+  <a href ="https://www.linkedin.com/in/hatem-elsheref/">
+  <img src="https://img.shields.io/badge/-LinkedIN-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
+  </a>
+</p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<br>
+<br>
+<br>
+
+<a href="https://github.com/hatem-elsheref">
+  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=hatem-elsheref&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&langs_count=7&theme=radical" /> 
 </a>
-<a href="https://github.com/hatem-elsheref/Yall-Dardasha">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hatem-elsheref&repo=Yall-Dardasha" />
+
+<a href="https://github.com/hatem-elsheref">
+  <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatem-elsheref" />
 </a>
-<!--
-**hatem-elsheref/hatem-elsheref** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<a href="https://github.com/hatem-elsheref">
+  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=hatemelsheref&v=2&langs_count=4" /> 
+</a>
 
-Here are some ideas to get you started:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hatem-elsheref&repo=hatem-elsheref/Yall-Dardasha)](https://github.com/hatem-elsheref/github-readme-stats)
+<a href="https://github.com/hatem-elsheref">
+  <img align="center"  width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=hatem-elsheref" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Current Programming Languages.
+<div>
+<img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+</div>
+
+# Current OS.
+<div>
+<img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Windows-294172?style=for-the-badge&logo=windows"/>
+</div>
+
+# Current Frameworks.
+
+<div>
+
+<img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Lumen-E74430?style=for-the-badge&logo=Lumen&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=Express&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"/>
+
+</div>
+
+<br>
+<br>
+
+# Current Tools
+
+<div>
+<img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Vs%20Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=whitej"/>
+<img src="https://img.shields.io/badge/-Sublime%20Text-FF9800?style=for-the-badge&logo=Sublime-Text&logoColor=black"/>
+<img src="https://img.shields.io/badge/git-GIT-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Object%20Oriented%20Programming-blue?style=for-the-badge&logo=azure-functions&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Data%20structures%20%26%20Algorithms-CB2E6D?logo=azure-pipelines&style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/-SOLID%20Principles-9999FF?style=for-the-badge&logo=apache-rocketMQ&logoColor=black"/>
+<img src="https://img.shields.io/badge/-Design%20patterns-360D3A?style=for-the-badge&logo=apache-rocketMQ&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Microservices-darkgreen?style=for-the-badge"/>
+
+</div>
+
+<br>
+<br>
+
+# Current Databases
+
+<div>
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
+</div>
+
