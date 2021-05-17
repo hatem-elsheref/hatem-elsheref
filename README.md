@@ -22,7 +22,7 @@
 <br>
 
 <a href="https://github.com/hatem-elsheref">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=hatem-elsheref&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&langs_count=7&theme=radical" /> 
+  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=hatem-elsheref&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&langs_count=70&theme=radical" /> 
 </a>
 
 <a href="https://github.com/hatem-elsheref">
@@ -30,7 +30,7 @@
 </a>
 
 <a href="https://github.com/hatem-elsheref">
-  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=hatemelsheref&v=2&langs_count=4" /> 
+  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=hatemelsheref&v=2&langs_count=40" /> 
 </a>
 
 <a href="https://github.com/hatem-elsheref">
