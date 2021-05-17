@@ -30,7 +30,7 @@
 </a>
 
 <a href="https://github.com/hatem-elsheref">
-  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=hatemelsheref&v=2&langs_count=40" /> 
+  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=hatem-elsheref&v=2&langs_count=40" /> 
 </a>
 
 <a href="https://github.com/hatem-elsheref">
