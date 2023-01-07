@@ -1,7 +1,6 @@
-## Hi there 👋
-
+## Hi there 👋 
+![](https://komarev.com/ghpvc/?username=hatem-elsheref-st&style=flat-square&label=PROFILE+VIEWS&color=blueviolet)
 ### this is my contacts if you would like to contact me
-
 
 <br>
 
@@ -21,8 +20,8 @@
 <br>
 <br>
 
-<a href="https://github.com/hatem-elsheref">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=hatem-elsheref&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&langs_count=70&theme=radical" /> 
+<a href="https://github.com/hatem-elsheref"  style="display:block">
+  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=hatem-elsheref&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&langs_count=70&theme=nightowl" /> 
 </a>
 
 <a href="https://github.com/hatem-elsheref">
