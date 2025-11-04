@@ -4,7 +4,7 @@
 
 ### 🚀 Full Stack Developer | Building Scalable, High-Performance Applications
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-url.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hatem-elsheref.github.io/hatem/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hatem-elsheref)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hatem_elshere)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hatem-elsheref)
@@ -16,9 +16,21 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hatem-elsheref&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35)
-![GitHub Streak](https://github-readme-streak-stats.demolab.com?user=hatem-elsheref&theme=radical&hide_border=true&background=0D1117&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hatem-elsheref&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35)
+
+### 📊 GitHub Stats
+
+<a href="https://github.com/hatem-elsheref">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hatem-elsheref&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35" />
+  <img height="170" src="https://streak-stats.demolab.com?user=hatem-elsheref&theme=radical&hide_border=true&background=0D1117&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35" />
+</a>
+
+---
+
+### 💡 Most Used Languages
+
+<a href="https://github.com/hatem-elsheref">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatem-elsheref&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35" />
+</a>
 
 </div>
 
@@ -194,7 +206,7 @@ I'm always open to collaboration, learning, and innovation. Let's build somethin
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-url.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hatem-elsheref.github.io/hatem/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hatem-elsheref)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hatem_elshere)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hatem-elsheref)
